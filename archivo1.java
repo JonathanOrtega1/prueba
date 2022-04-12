@@ -5,5 +5,7 @@ public class archivo1 {
         System.out.println("Hoja 3");
         System.out.println("Hoja 4");
         System.out.println("Hoja 5");
+        System.out.println("Hoja 6");
+        System.out.println("Hoja 7");
     }
 }
